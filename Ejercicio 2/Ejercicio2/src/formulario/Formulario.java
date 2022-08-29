@@ -13,7 +13,7 @@ public class Formulario extends javax.swing.JFrame {
     private static int max = 25;
     //cambiar a 25
     
-    Libro libros[] = new Libro[10];
+    Libro libros[] = new Libro[max];
     int i = 0;
 
     /**
